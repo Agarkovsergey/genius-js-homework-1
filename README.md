@@ -1,1 +1,1 @@
-[JS Homework 1](https://agarkovsergey.github.io/genius-homework-1/)
+[JS Homework 1](https://agarkovsergey.github.io/genius-js-homework-1/)
